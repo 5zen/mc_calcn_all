@@ -3,6 +3,7 @@
 // @namespace      https://github.com/5zen
 // @include        http://*.bmcaxis.jp/facility/castle_send_troop.php*
 // @description    <内蔵版>ＭＣ☆アクシズ 領地敵兵算出機＋賊討伐シミュレータ by gozen
+// @icon           https://raw.github.com/5zen/mc_beyond/master/icon.png
 // @author         gozen
 // @version        1.00
 // ==/UserScript==
