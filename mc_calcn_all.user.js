@@ -6,10 +6,16 @@
 // @icon           https://raw.github.com/5zen/mc_beyond/master/icon.png
 // @author         gozen
 // @version        1.00
+// @grant				GM_getValue
+// @grant				GM_setValue
+// @grant				GM_xmlhttpRequest
+// @grant				GM_addStyle
+// @grant				GM_getResourceURL
 // ==/UserScript==
 
 // 
 // 2013.01.31 移植
+// 2013.03.14 Firefox+Greasemonkey対応
 
 ( function(){
 ///////////////////////////////////////////////
